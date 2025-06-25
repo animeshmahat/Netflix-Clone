@@ -20,7 +20,7 @@
   gap: 50px;
 }
 
-.navbar-left .logo {
+.navbar-left img {
   width: 90px;
 }
 
@@ -78,4 +78,8 @@
 .navbar .dropdown p {
   font-size: 13px;
   cursor: pointer;
+}
+
+.nav-dark {
+  background: #141414;
 }
