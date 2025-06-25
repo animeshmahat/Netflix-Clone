@@ -12,7 +12,7 @@ export default function Home() {
     <div className="home">
       <Navbar></Navbar>
       <div className="hero">
-        <img src={hero_banner} alt="" className="banner-image" />
+        <img src={hero_banner} alt="" className="banner-img" />
         <div className="hero-caption">
           <img src={hero_title} alt="" className="caption-img" />
           <p>
