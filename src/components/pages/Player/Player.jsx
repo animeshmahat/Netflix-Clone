@@ -37,7 +37,7 @@ export default function Player() {
     <div className="player">
       <img
         src={back_arrow_icon}
-        alt=""
+        alt="Return"
         onClick={() => {
           navigate(-2);
         }}
